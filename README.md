@@ -196,7 +196,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-[Add appropriate license information]
+Free to Contribute
 
 ## Support
 
